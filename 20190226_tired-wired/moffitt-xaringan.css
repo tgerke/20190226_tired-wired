@@ -220,6 +220,10 @@ blockquote {
   font-style: italic;
   color: #777;
 }
+.small {
+  font-size: .5em;
+}
+
 .large {
   font-size: 1.5em;
 }
