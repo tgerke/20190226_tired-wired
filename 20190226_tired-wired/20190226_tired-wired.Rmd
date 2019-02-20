@@ -16,6 +16,10 @@ output:
       countIncrementalSlides: true
 ---
 
+background-image: url(figures/slideshow.png)
+background-size: 50%
+background-position: bottom 10% right 10%
+
 # rstudio::conf 2019
 
 .pull-left[
@@ -24,9 +28,5 @@ output:
 
 - All abstracts/workshops/e-posters
  + https://github.com/rstudio/rstudio-conf/tree/master/2019 
-]
-
-.pull-right[
-![](figures/rstudio-conf.jpg)
 ]
 
