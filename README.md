@@ -3,4 +3,4 @@
 ### Travis Gerke
 ### R-centered workflows - tired::wired
 
-Slide skeleton established via `grkmisc::doc_new("slides")`
+Slide skeleton established via `grkmisc::doc_new(path = "20190226_tired-wired", type = "slides")`
