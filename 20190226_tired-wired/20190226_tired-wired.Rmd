@@ -182,3 +182,100 @@ background-size: 60%
 background-position: center
 
 # 5: Use fancy fonts
+
+---
+background-image: url(figures/arrow.png)
+background-size: 80%
+background-position: bottom 20% center
+
+# All famous R people used arrow thingy
+
+* Install FiraCode https://github.com/tonsky/FiraCode
+* Plug into RStudio https://github.com/tonsky/FiraCode/wiki/RStudio-instructions
+ + Tools > Global Options > Appearance
+ + Select "Fira Code" as Editor Font.
+ + Hit "OK" and become a famous R person!
+ 
+---
+background-image: url(figures/06.png)
+background-size: 70%
+background-position: center
+
+# 6: Use `str()`
+
+---
+background-image: url(figures/str.png)
+background-size: 80%
+background-position: center
+
+# `str()` gives more verbose/useful output
+
+---
+background-image: url(figures/07.png)
+background-size: 70%
+background-position: center
+
+# 7: Use `options(error = recover)`
+
+---
+background-image: url(figures/08.png)
+background-size: 60%
+background-position: center
+
+# 8: Use oh-my-zsh
+
+---
+background-image: url(figures/09.png)
+background-size: 60%
+background-position: center
+
+# 9: Use `lookup`
+
+---
+background-image: url(figures/10.png)
+background-size: 70%
+background-position: center
+
+# 10: `usethis`!
+
+---
+background-image: url(figures/11.png)
+background-size: 70%
+background-position: center
+
+# 11: Use/track `.Rprofile` and `.Renviron`
+
+---
+background-image: url(figures/12.png)
+background-size: 70%
+background-position: center
+
+# 12: Use `brew cask install r-app`
+
+---
+background-image: url(figures/13.png)
+background-size: 70%
+background-position: center
+
+# 13: Use `--amend`
+
+---
+background-image: url(figures/14.png)
+background-size: 70%
+background-position: center
+
+# 14: Use `View()` on lists
+
+---
+background-image: url(figures/15.png)
+background-size: 60%
+background-position: center
+
+# 15: Use the original sources!
+
+---
+# Use the original sources!
+
+* https://jennybc.github.io/wtf-2019-rsc/
+* https://happygitwithr.com/
+* https://whattheyforgot.org/
